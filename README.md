@@ -25,6 +25,7 @@ Tools: Git, GitHub, GitLab, Android Studio, VSCode, XAMPP, MariaDB, Trello, Inte
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/willien-hu-7607342a6/)
+- [GitLab](https://gitlab.com/huwillien56)
 - Email: huwillien56@gmail.com
 ---
 
