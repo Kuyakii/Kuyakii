@@ -29,3 +29,5 @@ Tools: Git, GitHub, GitLab, Android Studio, VSCode, XAMPP, MariaDB, Trello, Inte
 ---
 
 > *I’m always curious to learn new things and contribute to impactful projects. Feel free to explore my repositories or reach out if you'd like to connect!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kuyakii&color=blue)
