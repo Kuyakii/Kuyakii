@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Willien
 
-🎓 Computer Engineering Student at ESIEE Paris  
+🎓 Computer Science Student.
 🧠 Passionate about software development, open source, and innovation  
-🔍 Currently seeking an apprenticeship at Thales in Open & Inner Source development
 
 ---
 
