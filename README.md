@@ -4,6 +4,8 @@
 🧠 Passionate about software development, open source, and innovation  
 
 ---
+## 🌐 Live
+👉 https://Kuyakii.github.io/portfolio/
 
 ## 🚀 Highlighted Projects
 
