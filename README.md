@@ -5,7 +5,8 @@
 
 ---
 ## 🌐 Live
-👉 https://Kuyakii.github.io/portfolio/
+👉 https://Kuyakii.github.io
+
 
 ## 🚀 Highlighted Projects
 
